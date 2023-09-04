@@ -31,8 +31,8 @@
 
 ## Progress
 * [x] Study Plan
-* [ ] Redeem Coupon
-* [ ] Introduction to Generative AI
+* [x] Redeem Coupon
+* [x] [Introduction to Generative AI](./2023_ML_Study_Jam-1.md)
 * [ ] Introduction to Large Language Models
 * [ ] Introduction to Responsible AI
 * [ ] Generative AI Fundamentals
