@@ -34,7 +34,7 @@
 * [x] Redeem Coupon
 * [x] [Introduction to Generative AI](./2023_ML_Study_Jam-01.md)
 * [x] [Introduction to Large Language Models](./2023_ML_Study_Jam-02.md)
-* [ ] Introduction to Responsible AI
+* [x] [Introduction to Responsible AI](./2023_ML_Study_Jam-03.md)
 * [ ] Generative AI Fundamentals
 * [ ] Introduction to Image Generation
 * [ ] Encoder-Decoder Architecture
