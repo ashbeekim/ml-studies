@@ -33,7 +33,7 @@
 * [x] Study Plan
 * [x] Redeem Coupon
 * [x] [Introduction to Generative AI](./2023_ML_Study_Jam-01.md)
-* [ ] Introduction to Large Language Models
+* [x] [Introduction to Large Language Models](./2023_ML_Study_Jam-02.md)
 * [ ] Introduction to Responsible AI
 * [ ] Generative AI Fundamentals
 * [ ] Introduction to Image Generation
