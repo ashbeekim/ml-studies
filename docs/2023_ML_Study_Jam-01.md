@@ -3,6 +3,7 @@
 ## Contexts
 * [Course](#course)
 * [TIL](#til)
+* [Notes of the wrong answers](#notes-of-the-wrong-answers)
 
 ## Course
 * [x] VIDEO: Introduction to Generative AI
@@ -54,6 +55,8 @@ Generation:
 
 Model Garden Task Specific Models는 개인적으로 흥미있는 내용이었으나, Bard 를 비롯하여, Google의 제품을 사용하라는 내용이 다소 많아서 아쉬웠음. 그래도 GCP를 사용하여 생성형 AI를 가볍게 돌려보기 위해 무엇을 참고할 지는 알 수 있었음.
 
-**Notes of the wrong answers**
+## Notes of the wrong answers
+
 prompt?
+
 A prompt is a short piece of text that is given to the large language model as input, and it can be used to control the output of the model in many ways.

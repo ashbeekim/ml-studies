@@ -3,6 +3,7 @@
 ## Contexts
 * [Course](#course)
 * [TIL](#til)
+* [Notes of the wrong answers](#notes-of-the-wrong-answers)
 
 ## Course
 * [x] VIDEO: Introduction to Responsible AI
@@ -22,12 +23,17 @@
 * Privacy
 
 > Every decision point requires consideration and evaluation to ensure that choices have been made responsibly.
+
 Concept(Design), Development, Deployment, Monitoring 과 같이 제품의 시작부터 끝까지 고려 사항 및 평가가 필요함을 강조하는 내용은 단순 Gen AI를 위한 것은 아니고, 원론적인 SW 개발에 대한 각 작업자들이 가져야 할 태도로 알고 있음.
+
 그러나 유독 Gen AI에서 책임감 있는 AI 개발을 위한 내용을 강조하는 것은, Gen AI가 다양한 분야에서 활용될 수 있으며 그에 따라 크고 작은 영향을 미치는 것이 점차 치명적일 수 있기 때문에 보다 더 강조하는 듯함.
 
-책임감 있는 AI 개발
+**책임감 있는 AI 개발**
+
 a. 논란의 여지가 있는 AI 사용 사례를 식별하고, 이를 해결하기 위한 방법을 찾아야 함.
+
 b. 책임감 있는 AI 관행을 필요로 함.
+
 * AI 관행: AI를 개발하고 사용하는 데 필요한 모든 것을 포함하는 일련의 행동, 절차, 프로세스, 정책, 도구, 지침, 규정
 * AI 관행 필요 이유:
     * 아래의 사례가 윤리적 문제나 의도치 않은 결과 야기
@@ -35,7 +41,7 @@ b. 책임감 있는 AI 관행을 필요로 함.
         * 선한 의도를 가진 사용 사례
     * 기대한 만큼 유익하지 않은 경우 방지
 
-7 AI Principles(2018.06, Google)
+**7 AI Principles(2018.06, Google)**
 1. Be socially beneficial
 2. Avoid creating or reinforcing unfair bias(race, ethnicity, gender, nationality, income, sexual orientation, ability, and political or religious belief, etc.)
 3. Be built and tested for safety
@@ -44,7 +50,7 @@ b. 책임감 있는 AI 관행을 필요로 함.
 6. Uphold high standards of scientific excellence
 7. Be made available for uses that accord with these principles
 
-Applications Google will not pursue
+**Applications Google will not pursue**
 - Technologies that cause or are likely to cause overall harm.
 - Weapons or other technologies whose principal purpose or implementation is to cause or directly facilitate injury to people.
 - Technologies that gather or use information for surveillance violating internationally accepted norms.
@@ -68,5 +74,5 @@ Applications Google will not pursue
 
 마지막으로 구글에서도 모든 지침 혹은 정책을 두어 모든 문제를 해결할 수 없다고 함. 모든 상황을 규범지으려는 것은 불가능하나, 명시되지 않은 상황에서도 개인의 판단에 따라 책임감 있게 행동하기 위해서는 인류의 공통적인 가치를 고려하되 도덕적인 판단을 통해 행동해야 함.
 
-**Notes of the wrong answers**
--
+## Notes of the wrong answers
+(none)
