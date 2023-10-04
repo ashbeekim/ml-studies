@@ -1,17 +1,20 @@
 # 2023 ML Study Jam(Generative AI Learning Path)
 
 ## Contexts
+
 * [Guide](#guide)
-* [Course](#course)
+* [Course](#course-생성형-aigen-ai-학습-과정)
 * [Progress](#progress)
 
 ## Guide
+
 * 2023/08/20 - 참가 신청 마감
 * 2023/08/21 - 참가 확정 및 안내 메일
 * 2023/10/16 - 스터디 잼 종료
 * 2023/10/17 - 스터디 잼 수료 체크 메일 발송
 
 ## Course: 생성형 AI(Gen AI) 학습 과정
+
 [Introduction to Generative AI Learning Path](https://www.cloudskillsboost.google/journeys/118)
 
 1. [Introduction to Generative AI](https://www.cloudskillsboost.google/course_templates/536)
@@ -30,13 +33,14 @@
 ** **Note**: 수료 기준은 상기의 10개 코스임. 따라서 각 코스별 링크 참고하여 수료 이수 가능
 
 ## Progress
+
 * [x] Study Plan
 * [x] Redeem Coupon
 * [x] [Introduction to Generative AI](./2023_ML_Study_Jam-01.md)
 * [x] [Introduction to Large Language Models](./2023_ML_Study_Jam-02.md)
 * [x] [Introduction to Responsible AI](./2023_ML_Study_Jam-03.md)
 * [x] [Generative AI Fundamentals](./2023_ML_Study_Jam-04.md)
-* [ ] Introduction to Image Generation
+* [x] [Introduction to Image Generation](./2023_ML_Study_Jam-05.md)
 * [ ] Encoder-Decoder Architecture
 * [ ] Attention Mechanisms
 * [ ] Transformer Models and BERT Model
