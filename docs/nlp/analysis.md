@@ -24,6 +24,8 @@ Morphological Analysis(형태소 분석) -> Syntax Analysis(구문 분석) -> Se
 형태소 분석
 
 - non-word tokens(구두점, 기호, 접미사 등)
+  - punctuation(구두기호)
+  - stop word(불용어)
 - morpheme(형태소, 뜻을 가지는 최소의 언어 단위)
 
 ### Part-of-Speech Tagging
